@@ -1,5 +1,5 @@
 body { 
-  background: url("http://www.travelviaitaly.com/wp-content/uploads/2015/08/dolomites-mountains-italy.jpg") no-repeat center center fixed; 
+  background: url("../img/456.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -8,4 +8,10 @@ body {
 
 .big-icon {
     font-size: 32px;
-}
+
+
+{
+       background-color:rgba(0,0,0,0) !important;
+       border:none !important;
+    }
+
